@@ -19,9 +19,9 @@ Test: [![calculator](https://img.shields.io/static/v1?label=SkySaga&message=Fini
 
 #### Pet-Projects
 
-social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai/login)
+social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai)
 
-TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist/)
+TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist)
 
 ##### also, chek my REPO
 
