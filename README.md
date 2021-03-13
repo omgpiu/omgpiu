@@ -1,7 +1,8 @@
 ![Header](https://github.com/omgpiu/omgpiu/blob/main/assets/avatar.jpg)
 
 ### About me
-
+Hi there! I'm Alex.
+I'm a Frontend Developer from Saint-Petersburg.
 ### Projects
 
 ### Languages and Tools
@@ -11,6 +12,8 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-282c34?style=for-the-badge&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-282c34?style=for-the-badge&logo=Javascript)
 ![CSS](https://img.shields.io/badge/-CSS-282c34?style=for-the-badge&logo=css3)
+![Ant Design](https://img.shields.io/badge/-AntDesign-282c34?style=for-the-badge&logo=Ant-Design)
+![Material-UI](https://img.shields.io/badge/-Material.UI-282c34?style=for-the-badge&logo=Material-UI)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-282c34?style=for-the-badge&logo=Socket.io)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-282c34?style=for-the-badge&logo=Node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-282c34?style=for-the-badge&logo=firebase)
@@ -19,6 +22,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/adubrovskii/)
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/omgpiu)
+#### or 
+✉️ Mail me: dybrovskii.spb@mail.ru
 
 
 
