@@ -19,10 +19,12 @@ Test: [![calculator](https://img.shields.io/static/v1?label=SkySaga&message=Fini
 
 #### Pet-Projects
 
-social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai/profile)
+social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai/login)
 
 TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist/)
+
 ##### also, chek my REPO
+
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/-REACT-282c34?style=for-the-badge&logo=react)
