@@ -1,8 +1,14 @@
 ![Header](https://github.com/omgpiu/omgpiu/blob/main/assets/myLogoShort.png)
 
 ### About me
-Hi there! I'm Alex.
-I'm a Frontend Developer from Saint-Petersburg.
+
+Hi there! I'm Alex. I'm a Frontend Developer from Saint-Petersburg.
+
+### More info about me
+
+[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/file/d/1mFaBA5xwiTeXK138b4hPocQrlVVeSrXY/view?usp=sharing)
+
+
 ### Projects
 
 ### Languages and Tools
@@ -22,7 +28,9 @@ I'm a Frontend Developer from Saint-Petersburg.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/adubrovskii/)
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/omgpiu)
-#### or 
+
+#### or
+
 ✉️ Mail me: dybrovskii.spb@mail.ru
 
 
