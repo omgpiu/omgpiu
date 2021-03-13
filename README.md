@@ -8,9 +8,21 @@ Hi there! I'm Alex. I'm a Frontend Developer from Saint-Petersburg.
 
 [![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/file/d/1mFaBA5xwiTeXK138b4hPocQrlVVeSrXY/view?usp=sharing)
 
-
 ### Projects
 
+Non NDA(for now)
+project:  [![calculator](https://img.shields.io/static/v1?label=LoadCalculator&message=In_Progress&color=orange)](https://omgpiu-load-calculator.web.app/)
+
+Chat-socket-oi:  ![chat](https://img.shields.io/static/v1?label=Chat&message=In_Progress&color=orange)
+
+Test: [![calculator](https://img.shields.io/static/v1?label=SkySaga&message=Finish&color=green)](https://skysaga-86e91.web.app/login)
+
+#### Pet-Projects
+
+social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai/profile)
+
+TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist/)
+##### also, chek my REPO
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/-REACT-282c34?style=for-the-badge&logo=react)
