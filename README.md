@@ -1,4 +1,4 @@
-![Header](https://github.com/omgpiu/omgpiu/blob/main/assets/myLogo.png)
+![Header](https://github.com/omgpiu/omgpiu/blob/main/assets/myLogoShort.png)
 
 ### About me
 Hi there! I'm Alex.
