@@ -6,28 +6,14 @@ Hi there! I'm Alex. I'm a Frontend Developer from Saint-Petersburg.
 
 ### More info about me
 
-[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/file/d/1mFaBA5xwiTeXK138b4hPocQrlVVeSrXY/view?usp=sharing)
+[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/drive/u/0/my-drive)
 
-### Projects
-
-Non NDA(for now)
-project:  [![calculator](https://img.shields.io/static/v1?label=LoadCalculator&message=In_Progress&color=orange)](https://omgpiu-load-calculator.web.app/)
-
-Chat-socket-oi:  ![chat](https://img.shields.io/static/v1?label=Chat&message=In_Progress&color=orange)
-
-Test: [![calculator](https://img.shields.io/static/v1?label=SkySaga&message=Finish&color=green)](https://skysaga-86e91.web.app/login)
-
-#### Pet-Projects
-
-social-network:  [![social](https://img.shields.io/static/v1?label=Social_network&message=Finish&color=green)](https://omgpiu.github.io/pathofsamurai)
-
-TODO: [![todo](https://img.shields.io/static/v1?label=TODO&message=Finish&color=green)](https://omgpiu.github.io/todolist)
-
-##### also, chek my REPO
 
 ### Languages and Tools
 
 ![React](https://img.shields.io/badge/-REACT-282c34?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Effector](https://img.shields.io/badge/-EFFECTOR-282c34?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&logo=Redux)
 ![Typescript](https://img.shields.io/badge/-Typescript-282c34?style=for-the-badge&logo=Typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-282c34?style=for-the-badge&logo=Javascript)
