@@ -30,7 +30,7 @@ Hi there! I'm Alex. I'm a Frontend Developer from Saint-Petersburg.
 
 #### or
 
-✉️ Mail me: dybrovskii.spb@mail.ru
+✉️ Mail me: omgpiu@gmail.com
 
 
 
