@@ -6,7 +6,7 @@ Hi there! I'm Alex. I'm a Frontend Developer from Saint-Petersburg.
 
 ### More info about me
 
-[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/file/d/1UOXiuVhrnnP6Z8yAswanuveu0COQ_JoM/view?usp=sharing)
+[![CV](https://img.shields.io/static/v1?label=CheckThis&message=CV&color=blueviolet)](https://drive.google.com/file/d/1PPGA1hzU6dDgAsxEKL0dNfnwKLCOLg9O/view?usp=sharing)
 
 ### Languages and Tools
 
